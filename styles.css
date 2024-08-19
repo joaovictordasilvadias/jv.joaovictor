@@ -59,4 +59,14 @@ section {
     font-family: "Chakra Petch", sans-serif;
   }h1 {
     font-size: 40px;
+  }.categoria-videos img:hover {
+    opacity: 1.0;
+}
+
+.categoria h2 {
+
+}.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
   }
